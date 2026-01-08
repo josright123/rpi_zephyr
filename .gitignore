@@ -123,4 +123,4 @@ ZephyrModuleFile.txt
 
 # Node dependecies
 node_modules
-samples/hello_world/venv-west/
+#samples/hello_world/venv-west/
